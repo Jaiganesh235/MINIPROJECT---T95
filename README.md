@@ -26,23 +26,30 @@ Optimal Interaction with Hostel Application is designed to streamline and automa
 
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![flow diagram 1](https://github.com/user-attachments/assets/7456c4ab-c3a9-46bc-9f5b-c760b1837fea)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Login Page
+![Screenshot (281) 1](https://github.com/Jaiganesh235/assets/8c0d6020-96d6-4567-b714-fa29e24bbb24)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Admin Dashboard: Adding New Student Profile
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output3 - Student Dashboard: Profile Page
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output4 - Security Dashboard: Record and View Visitors
+
+#### Output5 - Admin Dashboard: Manage Room Allocation
+
+#### Output6 - Admin Dashboard: Manage Notices
+
+#### Output7 - Student Dashboard: Room Change Request
+
+#### Output8 - Student Dashboard: Raising Outing Requests
+
+#### Output9 - Student Dashboard: File Complaint
+
 
 
 ## Results and Impact
