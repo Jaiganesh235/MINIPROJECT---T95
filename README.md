@@ -32,7 +32,7 @@ Optimal Interaction with Hostel Application is designed to streamline and automa
 ## Output
 
 #### Output1 - Login Page
-![Screenshot (281) 1](https://github.com/Jaiganesh235/assets/8c0d6020-96d6-4567-b714-fa29e24bbb24)
+![Screenshot (281) 1](https://github.com/user-attachments/assets/394cfaa6-7204-40aa-ae55-052f253d51b0)
 
 #### Output2 - Admin Dashboard: Adding New Student Profile
 
