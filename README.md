@@ -35,32 +35,70 @@ Optimal Interaction with Hostel Application is designed to streamline and automa
 ![Screenshot (281) 1](https://github.com/user-attachments/assets/394cfaa6-7204-40aa-ae55-052f253d51b0)
 
 #### Output2 - Admin Dashboard: Adding New Student Profile
+![Screenshot (282) 1](https://github.com/user-attachments/assets/a31f912a-2da5-4bf9-b1fc-a6adb12731a6)
 
 #### Output3 - Student Dashboard: Profile Page
+![Screenshot (283) 1](https://github.com/user-attachments/assets/cab46938-c78e-4586-8ab0-77a1b41b2f4c)
 
 #### Output4 - Security Dashboard: Record and View Visitors
+![Screenshot (284) 1](https://github.com/user-attachments/assets/cf37bc97-e477-48ad-b6db-373759c657dc)
 
 #### Output5 - Admin Dashboard: Manage Room Allocation
+![Screenshot (285) 1](https://github.com/user-attachments/assets/03110663-6363-496f-b8cd-4eb8f7a5820b)
 
 #### Output6 - Admin Dashboard: Manage Notices
+![Screenshot (286) 1](https://github.com/user-attachments/assets/6111a1b4-be3b-45fe-9eb2-5d9887efadf3)
 
 #### Output7 - Student Dashboard: Room Change Request
+![Screenshot (287) 1](https://github.com/user-attachments/assets/b9e91625-8c81-494f-83fc-4914decf7e6f)
 
 #### Output8 - Student Dashboard: Raising Outing Requests
+![Screenshot (288) 1](https://github.com/user-attachments/assets/ce0c611f-2e4c-40c7-a97d-4e4268791749)
 
 #### Output9 - Student Dashboard: File Complaint
+![Screenshot (289) 1](https://github.com/user-attachments/assets/f5c473f2-32e3-4187-9791-bbda90cbb7b8)
 
 
+## Results and ImpactHere’s a structured overview for a Hostel Management System project:
 
-## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+---
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+### 1. **Title of the Project - Hostel Management System**
+
+**Description:**  
+This project is a comprehensive Hostel Management System designed to streamline and automate the management of hostel-related tasks. It includes separate dashboards for students, admins, and security, allowing efficient handling of room allocations, service requests, outing approvals, and visitor logs. Built using Python, Streamlit, and JSON for backend data storage, this system ensures a user-friendly and secure experience for all users.
+
+### 2. **About**
+
+The Hostel Management System aims to simplify hostel administration by digitalizing daily operations, enhancing efficiency, and minimizing manual errors. It offers a unified platform for students, administrators, and security personnel to manage hostel-related activities. Students can request services, view their profile, and file complaints. Administrators can handle room assignments, approve outing requests, and manage notices, while security can log visitor details. This system provides a more organized and transparent management experience.
+
+### 3. **Features**
+
+- **Student Dashboard**: Profile management, room change requests, outing requests, and complaint submission.
+- **Admin Dashboard**: Room management, student data management, notice posting, and complaint resolution.
+- **Security Dashboard**: Visitor logging, outing pass verification, and visitor record management.
+- **Service Requests**: Students can request services like cleaning or maintenance, with admins managing and tracking requests.
+- **Room Management**: Admins can allocate rooms based on gender and availability and handle room change requests.
+- **QR Code Generation**: Automated QR code generation for approved outing requests for easy verification.
+- **Complaint and Feedback System**: Allows students to submit complaints and admins to provide feedback.
+
+### 4. **Requirements**
+
+- **Technology Stack**: Python, Streamlit (for web interface), JSON (for data storage)
+- **System Requirements**: 
+  - Minimum 4GB RAM
+  - Windows, macOS, or Linux OS
+  - Python 3.x installed
+- **Libraries**: Streamlit, JSON, and other required Python libraries for handling data and interface functionality
+- **Access**: Internet connection (for online deployment) and access control for student and admin logins
+
+### 5. **Results and Impact**
+
+This Hostel Application significantly reduces manual workload for hostel administrators and enhances the overall experience for students. By automating room management, service requests, and complaint tracking, the system minimizes administrative delays and errors. Security personnel can monitor visitors more efficiently, and students can easily communicate requests and receive timely responses. This project ultimately fosters a structured and responsive environment, improving hostel operations and resident satisfaction.
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
 
 
 
