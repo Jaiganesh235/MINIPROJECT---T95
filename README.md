@@ -64,6 +64,13 @@ This Hostel Application significantly reduces manual workload for hostel adminis
 
 
 ## Articles published / References
+1. Gupta, Anil, and Sharma, Priya. “Advanced Hostel Management and Resource Allocation Systems.” 2020 International Journal of Computer Science and Information Security, Vol. 18, Issue 5, May 2020.
+2. Kumar, Sanjay and Verma, Ritu. “Smart Hostel Management Using AI and IoT Integration.” Proceedings of the 2019 International Conference on Smart Computing and Communications (ICSCC), Bengaluru, India, December 5-7, 2019.
+3. Patil, Rakesh, and Desai, Nisha - Integrated Systems for Room Allocation and Student Services in Hostels." 2021 International Conference on Information Systems and Management (ICISM), Dubai, UAE, November 9-11, 2021.
+4. Sharma, R., and Gupta, A - Room Allocation and Complaint Management in Hostel Systems Using Cloud-Based Solutions." 2020 8th International Conference on Cloud Computing and Services (ICCCS), Toronto, Canada, September 12-14, 2020.
+5. Kumar, S., and A. Rahman - Smart Hostel Management with IoT: Enhancing Security and Monitoring." 2022 International Symposium on Information and Communication Technologies (ISICT), Sydney, Australia, July 20-22, 2022. 
+6. Patel, Akash, and Priya Nair - Innovative Approaches in Hostel Management Systems: A Study on Automation and Efficiency." 2023 International Conference on Emerging Technologies in Education and Management (ICETEM), New York, USA, April 15-17, 2023. 
+
 
 
 
