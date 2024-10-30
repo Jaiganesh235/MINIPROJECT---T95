@@ -1,1 +1,10 @@
 List of  images
+1. Login Page 
+2. Admin Dashboard: Adding New Student Profile 
+3. Student Dashboard: Profile Page 
+4. Security Dashboard: Record and View Visitors 
+5. Admin Dashboard: Manage Room Allocation 
+6. Admin Dashboard: Manage Notices 
+7. Student Dashboard: Room Change Request 
+8. Student Dashboard: Raising Outing Requests 
+9. Student Dashboard: File Complaint 
